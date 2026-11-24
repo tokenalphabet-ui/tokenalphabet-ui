@@ -36,6 +36,7 @@ Free to use, no sign-up needed to look around.
 
 ### Open source
 
+- [crypto-price-alert-bot](https://github.com/tokenalphabet-ui/crypto-price-alert-bot): self-hosted Telegram bot for crypto price alerts, written in Python
 - [awesome-crypto-wallets](https://github.com/tokenalphabet-ui/awesome-crypto-wallets): a curated list of hardware, mobile and Web3 wallets with plain-language explainers
 
 <sub>Nothing here is financial advice.</sub>
