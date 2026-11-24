@@ -22,7 +22,7 @@
 - Charts with full price history
 - Free historical data for Bitcoin and altcoins
 - Price alerts
-- Widgets and API for your site
+- Crypto Fear & Greed index, market heatmap, top gainers and losers
 
 Free to use, no sign-up needed to look around.
 
