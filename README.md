@@ -34,6 +34,10 @@ Free to use, no sign-up needed to look around.
 - [MetaMask vs Rabby for DeFi users](https://tokenalphabet.com/blog/metamask-vs-rabby-six-defi-user-profiles-and-the-wallet-that-fits-each-one)
 - [RWA ecosystem: the complete guide to asset tokenization](https://tokenalphabet.com/blog/rwa-ecosystem-explained-the-complete-guide-to-asset-tokenization)
 
+### Crypto glossary
+
+Plain-language explanations of market cap, Bitcoin dominance, seed phrases, cold wallets, stablecoins and more: [tokenalphabet-ui.github.io/glossary](https://tokenalphabet-ui.github.io/glossary/)
+
 ### Open source
 
 - [crypto-price-alert-bot](https://github.com/tokenalphabet-ui/crypto-price-alert-bot): self-hosted Telegram bot for crypto price alerts, written in Python
