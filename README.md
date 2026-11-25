@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tokenalphabet.com/"><img src="https://avatars.githubusercontent.com/tokenalphabet-ui" width="96" alt="TokenAlphabet"></a>
+  <a href="https://token-alphabet.com/"><img src="https://avatars.githubusercontent.com/tokenalphabet-ui" width="96" alt="TokenAlphabet"></a>
 </p>
 
 <h1 align="center">TokenAlphabet</h1>
@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://tokenalphabet.com/">Website</a> ·
-  <a href="https://tokenalphabet.com/blog">Blog</a> ·
+  <a href="https://token-alphabet.com/">Website</a> ·
+  <a href="https://token-alphabet.com/blog">Blog</a> ·
   <a href="https://x.com/token_alphabet">X / Twitter</a>
 </p>
 
 ---
 
-### What you get on tokenalphabet.com
+### What you get on token-alphabet.com
 
 - Live prices and market cap rankings
 - Charts with full price history
